@@ -1,7 +1,7 @@
 body {
-    color: lavender;
+    color: rgb(20, 20, 27);
     background-color: azure;
 }
-h1 {color:lavenderblush; background-color: antiquewhite;}
-h2 {color: papayawhip;}
+h1 {color:rgb(85, 48, 60); background-color: antiquewhite;}
+h2 {color: rgb(132, 149, 196);}
 a {color:peachpuff;}
