@@ -1,7 +1,10 @@
 body {
     color: rgb(20, 20, 27);
     background-color: azure;
+    font-family: "Josefin Sans", sans-serif;
 }
-h1 {color:rgb(85, 48, 60); background-color: antiquewhite;}
-h2 {color: rgb(132, 149, 196);}
+h1 {color:rgb(85, 48, 60); background-color: antiquewhite;
+    font-family: "Josefin Sans", sans-serif;}
+h2 {color: rgb(132, 149, 196);font-family: "Josefin Sans", sans-serif;
+}
 a {color:peachpuff;}
