@@ -8,3 +8,7 @@ h1 {color:rgb(85, 48, 60); background-color: antiquewhite;
 h2 {color: rgb(132, 149, 196);font-family: "Josefin Sans", sans-serif;
 }
 a {color:peachpuff;}
+nav {background-color: azure;}
+nav a {color:antiquewhite}
+nav {color:peachpuff}
+nav a:hover {background-color: honeydew;}
