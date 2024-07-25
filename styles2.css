@@ -1,6 +1,9 @@
 body {
     color: rgb(20, 20, 27);
-    background-color: azure;
+    background-color: rgb(228, 215, 236);
+    font-family: "Josefin Sans", sans-serif;
 }
-h1 {color:rgb(85, 48, 60); background-color: antiquewhite;}
+h1 {color:rgb(150, 48, 79); background-color: antiquewhite;
+    font-family: "Josefin Sans", sans-serif;
+}
 a {color:rgb(119, 77, 129);}
