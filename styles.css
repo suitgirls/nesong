@@ -7,7 +7,7 @@ h1 {color:rgb(85, 48, 60); background-color: antiquewhite;
     font-family: "Josefin Sans", sans-serif;}
 h2 {color: rgb(132, 149, 196);font-family: "Josefin Sans", sans-serif;
 }
-a {color:peachpuff;}
+a {color:rgb(100, 62, 100);}
 nav {
     padding: 10px;
     margin-bottom: 30px;
@@ -15,3 +15,10 @@ nav {
 nav a {color:rgb(73, 48, 114)}
 nav {color:rgb(48, 45, 43)}
 nav a:hover {background-color: honeydew;}
+div {
+    border: 1px slateblue;
+    margin: 30px;
+    padding: 50px;
+    background-color: cornsilk;
+    border-radius: 25px;
+}

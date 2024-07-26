@@ -15,3 +15,10 @@ nav {
 nav a {color:rgb(65, 36, 62)}
 nav {color:rgba(68, 40, 56, 0.199)}
 nav a:hover {background-color: honeydew;}
+div {
+    border: 1px slateblue;
+    margin: 30px;
+    padding: 50px;
+    background-color: cornsilk;
+    border-radius: 25px;
+}
